@@ -3,7 +3,7 @@ import Studenti from './Studenti'
 
 function PocetnaStrana() {
     return (
-        <div className="navBar">
+        <div className="pocetna-main-div">
             <Studenti/>
         </div>
     )

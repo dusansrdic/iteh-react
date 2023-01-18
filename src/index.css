@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  background-image: url(https://id.fon.bg.ac.rs/uploads/documents/empire_plugin/5cefa298257a0.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  font-family: 'Lato',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -11,3 +15,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.student-main-div {
+  margin-left: 340px;
+  color: #080d2e;
+}
+
+#naslov-studenti {
+  margin-bottom: 70px;
+  margin-top: 200px;
+  margin-left: 340px;
+  font-size: 50px;
+  color: #080d2e;
+  align-items: center;
+  
+  
+}
+
+.contact-forma-main-div {
+  width: 800px;
+  margin-left: 500px;
+  margin-top: 300px;
+  border: 2px;
+  font-size: large;
+  border-style: double;
+  border-color: goldenrod;
+  border-radius: 10px;
+}
+
+#btn_save {
+  margin-top: 20px;
+  margin-left: 250px;
+  color: navy;
+  background-color: goldenrod;
+  border: 2px;
+  font-size: large;
+  border-style: ridge;
+}
+
+.kontaktirajte-fakultet-h2 {
+  margin-left: 170px;
+}
+
+

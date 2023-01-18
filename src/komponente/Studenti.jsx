@@ -1,4 +1,3 @@
-import React from 'react'
 import Student from './Student'
 import axios from 'axios'
 import {useState} from 'react';
